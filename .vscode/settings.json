@@ -1,0 +1,5 @@
+{
+    "mithrilEmmet.outputDefaultTagName": false,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.settings.editor": "json"
+}
